@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iamurmani
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Web development
+- 👀 Full Stack Developer
 - 📫 How to reach me manigandane95@gmail.com
 
 <!---

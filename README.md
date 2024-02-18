@@ -4,7 +4,7 @@
 💥 Empowering aspiring developers, I leverage my experience to create informative content that simplifies complex concepts in full-stack development.\
 🪝 Dedicated to bridging the gap between theory and practice, I strive to provide actionable advice and real-world examples to fellow developers.\
 🕶️ With a passion for both front-end and back-end technologies, I aim to inspire curiosity and innovation through my educational content and tutorials.\
-💨 Through my journey as a full-stack developer, I aim to contribute to a collaborative and supportive community, where knowledge sharing is key to collective advancement.\
+💨 Through my journey as a full-stack developer, I aim to contribute to a collaborative and supportive community, where knowledge sharing is key to collective advancement.
 
 
 ## 🌐 Socials:
